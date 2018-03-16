@@ -45,7 +45,7 @@ p{
 }
 .table{
     text-align: center;
-    color: gray;
+    color: rgba(228, 23, 40, 0.63);
 }
 .contain{
        width: 960px;
@@ -53,4 +53,5 @@ p{
        margin-top: 0;
        background-image: url("http://img.sc115.com/uploads/sc/jpgs/1224apic2276_sc115.com.jpg");
        padding :10px 20px;
+       background-size: cover;
 }
